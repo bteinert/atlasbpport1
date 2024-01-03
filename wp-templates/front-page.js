@@ -56,6 +56,7 @@ export default function Component() {
               Welcome to your Blueprint
             </Heading>
             <p className={styles.description}>
+              Make this change
               Achieve unprecedented performance with modern frameworks and the
               world&apos;s #1 open source CMS in one powerful headless platform.{' '}
             </p>
