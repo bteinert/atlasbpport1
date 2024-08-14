@@ -53,6 +53,7 @@ export default function Component() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
+  Making a change
               Welcome to your Blueprint
             </Heading>
             <p className={styles.description}>
